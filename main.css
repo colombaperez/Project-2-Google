@@ -1,0 +1,29 @@
+.link { 
+	color: grey;
+	text-decoration: none;
+ }
+ .link:hover {
+ 	text-decoration: underline;
+ }
+
+ #footer {
+ 	background-color:#e3e3e3;
+ 	bottom: 0;
+ 	position: fixed;
+ 	width: 100%; 
+ }
+ .maincontent{
+ 	display: flex; 
+ 	align-items: center;
+ 	justify-content: center;
+ 	flex-direction: column;
+ 	height: 70vh;
+ }
+ body {
+ 	margin: 0; 
+ }
+.ligne
+{
+	display: flex;
+	justify-content: space-between;
+}
